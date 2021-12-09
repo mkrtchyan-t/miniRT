@@ -1,4 +1,5 @@
-# miniRT
+# MiniRT (*Mini*mal *R*ay *T*racer)
+
 My first RayTracer with miniLibX
 
 This project is an introduction to the beautiful world of Raytracing.
@@ -7,12 +8,6 @@ will never be afraid of implementing mathematical formulas again.
 
 _This one's my favorite work._
 ![42](https://raw.githubusercontent.com/mkrtchyan-t/miniRT/main/examples/42_colorful.bmp)
-
-# MiniRT (*Mini*mal *R*ay *T*racer)
-
-This 42 school project is a preview of the graphic programming world.  
-Here, we learned to compute visibility and color of 3D objects, casting rays
-on a 3D scene.
 
 ## Installation
 
